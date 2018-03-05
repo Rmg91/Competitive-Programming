@@ -1,6 +1,6 @@
 /*** Generate all permutations of an array ***/
 
-void generatePermutations( int A[ ], int n ){
+void allPermutations( int A[ ], int n ){
 	sort( A, A + n );
 	do{
 		for( int i = 0; i < n; ++i ) cout << A[ i ] << " ";
