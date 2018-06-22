@@ -10,7 +10,7 @@ int main(){
 		sumy += y;
 		sumz += z; 
 	}
-	if( sumx == 0 && sumy == 0 && sumz == 0) puts("YES");
-	else puts("NO");
+	if( sumx == 0 && sumy == 0 && sumz == 0 ) cout << "YES";
+	else cout << "NO";
 	return 0;
 }

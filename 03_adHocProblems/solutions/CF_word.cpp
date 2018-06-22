@@ -12,7 +12,7 @@ int main(){
 	string ans = "";
 	if( upper > lower ){
 		for( int i = 0; i < s.size(); ++i ) ans += toupper( s[ i ] );
-   	}
+	}
 	else{
 		for( int i = 0; i < s.size(); ++i ) ans += tolower( s[ i ] );
 	}
