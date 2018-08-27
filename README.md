@@ -1,7 +1,7 @@
 ﻿## Curso básico de programación competitiva
 Material del curso de programación competitiva dictado en la Universidad Nacional de Ingeniería - FIIS, recomendado para aquellos que inician o desean reforzar en los temas básicos de la programación competitiva.
 
-Si utiliza este material para un curso, por favor considerar la referencia.
+Si utiliza este material para algún curso, favor de considerar la referencia.
 
 # Índice
 
